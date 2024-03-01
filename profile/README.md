@@ -6,7 +6,7 @@ ApolloOS
 
 Welcome to ApolloOS!
 
-We currently support Android 14, with the latest security patches from Google. (Current: January 2024)
+We currently support Android 14, with the latest security patches from Google. (Current: February 2024)
 
 -----------------------------------------------------------------------------
 - Credits:
